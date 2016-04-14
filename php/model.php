@@ -1,4 +1,7 @@
 <?php
+$contentOutput = "";
+
+
 
 function getTEIXML($teiFile) {
     $xml = file_get_contents("../../$teiFile");
@@ -6,8 +9,7 @@ function getTEIXML($teiFile) {
 }
 
 function getTEIText($teiFile) {
-    $teiText = "Returns a text only view of the tei-xml file";
-	return $teiText;
+
 }
 
 function getTEIMarkup($teiFile) {
@@ -29,5 +31,6 @@ function getTEIHeader($teiFile) {
     $teiText = "Returns a listing of all the first level teiHeader tags contained in the tei-xml file.";
 	return $teiText;
 }
+
 
 ?>
