@@ -1,0 +1,6 @@
+Options +FollowSymLinks +ExecCGI
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule (.*)  apitext_api/router.php [QSA]
+</IfModule>

@@ -1,0 +1,102 @@
+{
+  "cb": {
+    "open_tag": "<div>",
+    "close_tag": "</div>"
+  },
+  "divGen": {
+    "open_tag": "<div>",
+    "close_tag": "</div>"
+  },
+  "graphic": {
+    "open_tag": "<div>",
+    "close_tag": "</div>"
+  },
+  "head": {
+    "open_tag": "<strong>",
+    "close_tag": "</strong>"
+  },
+  "title": {
+    "open_tag": "<strong>",
+    "close_tag": "</strong>"
+  },
+   "titlePart": {
+    "open_tag": "<strong>",
+    "close_tag": "</strong>"
+  },
+  "headItem": {
+    "open_tag": "<strong>",
+    "close_tag": "</strong>"
+  },
+  "headLabel": {
+    "open_tag": "<strong>",
+    "close_tag": "</strong>"
+  },
+  "item": {
+    "open_tag": "<li>",
+    "close_tag": "</li>"
+  },
+  "label": {
+    "open_tag": "<span>",
+    "close_tag": "</span>"
+  },
+  "lb": {
+    "open_tag": "<br>",
+    "close_tag": ""
+  },
+  "list": {
+    "open_tag": "<ul>",
+    "close_tag": "</ul>"
+  },
+  "p": {
+    "open_tag": "<p>",
+    "close_tag": "</p>"
+  },
+  "pb": {
+    "open_tag": "<br>",
+    "close_tag": ""
+  },
+  "cell": {
+    "open_tag": "<td>",
+    "close_tag": "</td>"
+  },
+  "row": {
+    "open_tag": "<tr>",
+    "close_tag": "</tr>"
+  },
+  "table": {
+    "open_tag": "<table>",
+    "close_tag": "</table>"
+  },
+  "div": {
+    "open_tag": "<div>",
+    "close_tag": "</div>"
+  },
+  "div1": {
+    "open_tag": "<div>",
+    "close_tag": "</div>"
+  },
+  "div2": {
+    "open_tag": "<div>",
+    "close_tag": "</div>"
+  },
+  "div3": {
+    "open_tag": "<div>",
+    "close_tag": "</div>"
+  },
+  "div4": {
+    "open_tag": "<div>",
+    "close_tag": "</div>"
+  },
+  "div5": {
+    "open_tag": "<div>",
+    "close_tag": "</div>"
+  },
+  "div6": {
+    "open_tag": "<div>",
+    "close_tag": "</div>"
+  },
+  "div7": {
+    "open_tag": "<div>",
+    "close_tag": "</div>"
+  }
+}
