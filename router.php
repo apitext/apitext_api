@@ -2,8 +2,9 @@
 include("view.php");
 
 // Import configuration settings.
-$teiFolder = "sample_tei_project";
-$teiFile = "TEI-XML_test_file.xml";
+$config = json_decode(file_get_contents("config.json"));
+$teiFolder = $config->teiFolder;
+$teiFile = $config->teiFile;
 
 // Retrieve the URI and convert it into a endpoint.
 $uri = $_SERVER['REQUEST_URI'];
