@@ -1,4 +1,4 @@
 {
-  "teiFolder": "sample_tei_project",
-  "teiFile" : "TEI-XML_test_file.xml"
+  "teiFolder": "The name of the folder that you want apitext to control goes here",
+  "teiFile" : "the name of the TEI-XML file that you want give API access to goes here"
 }
