@@ -1,0 +1,1890 @@
+{
+  "ab": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "abbr": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "accMat": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "acquisition": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "activity": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "actor": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "add": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "additional": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "additions": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "addName": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "address": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "addrLine": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "addSpan": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "adminInfo": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "affiliation": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "age": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "alt": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "alternate": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "altGrp": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "altIdent": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "altIdentifier": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "am": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "analytic": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "anchor": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "annotationBlock": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "app": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "arc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "argument": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "att": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "attDef": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "attList": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "attRef": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "author": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "back": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "bibl": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "biblScope": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "biblStruct": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "bicond": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "binary": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "binaryObject": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "binding": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "bindingDesc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "birth": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "bloc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "body": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "broadcast": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "byline": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "c": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "caesura": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "camera": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "caption": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "case": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "castGroup": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "castItem": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "castList": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "catchwords": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "certainty": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "channel": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "char": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "charDecl": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "charName": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "charProp": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "choice": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "cit": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "citedRange": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "cl": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "classes": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "classRef": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "classSpec": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "climate": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "closer": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "code": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "collation": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "collection": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "colloc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "colophon": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "cond": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "condition": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "constitution": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "constraint": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "constraintSpec": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "content": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "corr": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "country": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "custEvent": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "custodialHist": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "damage": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "damageSpan": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "dataRef": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "dataSpec": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "datatype": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "date": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "dateline": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "death": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "decoDesc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "decoNote": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "def": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "default": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "defaultVal": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "del": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "delSpan": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "depth": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "derivation": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "desc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "dictScrap": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "dim": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "dimensions": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "distinct": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "district": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "docAuthor": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "docDate": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "docEdition": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "docImprint": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "docTitle": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "domain": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "editor": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "education": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "eg": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "egXML": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "eLeaf": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "elementRef": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "elementSpec": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "email": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "emph": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "entry": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "entryFree": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "epigraph": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "epilogue": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "equipment": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "equiv": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "eTree": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "etym": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "event": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "ex": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "exemplum": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "expan": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "explicit": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "f": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "facsimile": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "factuality": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "faith": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "fDecl": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "fDescr": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "figDesc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "figure": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "filiation": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "finalRubric": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "fLib": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "floatingText": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "floruit": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "foliation": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "foreign": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "forename": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "forest": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "form": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "formula": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "front": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "fs": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "fsConstraints": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "fsdDecl": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "fsDecl": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "fsDescr": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "fsdLink": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "fvLib": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "fw": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "g": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "gap": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "gb": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "gen": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "genName": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "geo": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "geogFeat": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "geogName": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "gi": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "gloss": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "glyph": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "glyphName": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "gram": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "gramGrp": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "graph": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "group": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "handDesc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "handNotes": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "handShift": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "height": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "heraldry": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "hi": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "history": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "hom": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "hyph": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "ident": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "if": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "iff": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "imprimatur": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "imprint": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "incident": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "incipit": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "index": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "iNode": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "institution": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "interaction": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "interp": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "interpGrp": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "iType": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "join": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "joinGrp": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "kinesic": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "l": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "lacunaEnd": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "lacunaStart": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "lang": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "langKnowledge": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "langKnown": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "layout": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "layoutDesc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "lbl": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "leaf": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "lem": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "lg": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "line": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "link": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "linkGrp": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "listApp": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "listBibl": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "listEvent": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "listForest": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "listNym": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "listOrg": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "listPerson": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "listPlace": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "listRef": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "listRelation": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "listTranspose": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "listWit": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "locale": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "localName": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "location": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "locus": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "locusGrp": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "m": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "macroRef": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "macroSpec": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "mapping": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "material": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "measure": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "measureGrp": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "media": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "meeting": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "memberOf": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "mentioned": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "metamark": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "metDecl": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "metSym": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "milestone": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "mod": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "model": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "modelGrp": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "modelSequence": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "moduleRef": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "moduleSpec": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "monogr": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "mood": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "move": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "msContents": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "msDesc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "msFrag": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "msIdentifier": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "msItem": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "msItemStruct": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "msName": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "msPart": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "musicNotation": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "name": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "nameLink": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "nationality": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "node": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "notatedMusic": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "note": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "num": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "number": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "numeric": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "nym": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "objectDesc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "objectType": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "occupation": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "offset": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "opener": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "oRef": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "org": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "orgName": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "orig": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "origDate": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "origin": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "origPlace": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "orth": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "outputRendition": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "oVar": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "param": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "paramList": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "paramSpec": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "particDesc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "pause": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "pc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "per": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "performance": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "persName": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "person": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "personGrp": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "phr": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "physDesc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "place": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "placeName": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "population": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "pos": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "postBox": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "postCode": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "postscript": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "precision": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "pRef": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "preparedness": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "prologue": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "pron": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "provenance": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "ptr": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "publisher": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "pubPlace": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "purpose": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "pVar": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "q": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "quote": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "rdg": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "rdgGrp": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "re": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "recordHist": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "recording": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "recordingStmt": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "redo": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "ref": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "reg": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "region": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "relatedItem": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "relation": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "remarks": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "repository": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "residence": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "resp": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "respons": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "respStmt": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "restore": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "retrace": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "rhyme": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "role": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "roleDesc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "roleName": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "root": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "rs": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "rubric": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "s": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "said": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "salute": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "schemaSpec": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "scriptDesc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "scriptStmt": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "seal": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "sealDesc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "secFol": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "secl": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "seg": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "sense": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "sequence": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "series": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "set": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "setting": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "settingDesc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "settlement": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "sex": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "shift": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "sic": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "signatures": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "signed": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "soCalled": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "socecStatus": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "sound": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "source": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "sourceDoc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "sp": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "space": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "span": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "spanGrp": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "speaker": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "specDesc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "specGrp": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "specGrpRef": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "specList": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "spGrp": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "stage": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "stamp": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "state": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "street": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "stress": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "string": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "subc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "subst": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "substJoin": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "summary": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "superEntry": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "supplied": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "support": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "supportDesc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "surface": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "surfaceGrp": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "surname": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "surplus": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "surrogates": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "syll": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "symbol": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "tag": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "tech": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "TEI": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "teiCorpus": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "term": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "terrain": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "text": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "textDesc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "textLang": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "textNode": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "then": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "time": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "timeline": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "title": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "titlePage": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "titlePart": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "tns": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "trailer": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "trait": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "transcriptionDesc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "transpose": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "tree": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "triangle": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "typeDesc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "u": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "unclear": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "undo": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "unicodeName": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "usg": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "val": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "valDesc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "valItem": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "valList": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "vAlt": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "value": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "variantEncoding": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "vColl": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "vDefault": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "view": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "vLabel": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "vMerge": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "vNot": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "vocal": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "vRange": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "w": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "watermark": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "when": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "width": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "wit": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "witDetail": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "witEnd": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "witness": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "witStart": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "writing": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "xr": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "zone": {
+    "open_tag": "",
+    "close_tag": ""
+  }
+}

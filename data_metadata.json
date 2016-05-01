@@ -1,0 +1,278 @@
+{
+  "abstract": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "appInfo": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "application": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "authority": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "availability": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "biblFull": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "cRefPattern": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "calendar": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "calendarDesc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "catDesc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "catRef": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "category": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "change": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "classCode": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "classDecl": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "correction": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "correspAction": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "correspContext": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "correspDesc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "creation": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "distributor": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "edition": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "editionStmt": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "editorialDecl": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "encodingDesc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "extent": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "fileDesc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "funder": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "geoDecl": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "handNote": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "hyphenation": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "idno": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "interpretation": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "keywords": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "langUsage": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "language": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "licence": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "listChange": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "listPrefixDef": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "namespace": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "normalization": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "notesStmt": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "prefixDef": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "principal": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "profileDesc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "projectDesc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "publicationStmt": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "punctuation": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "quotation": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "refState": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "refsDecl": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "rendition": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "revisionDesc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "samplingDecl": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "scriptNote": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "segmentation": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "seriesStmt": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "sourceDesc": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "sponsor": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "stdVals": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "styleDefDecl": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "tagUsage": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "tagsDecl": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "taxonomy": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "teiHeader": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "textClass": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "titleStmt": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "typeNote": {
+    "open_tag": "",
+    "close_tag": ""
+  },
+  "xenoData": {
+    "open_tag": "",
+    "close_tag": ""
+  }
+}
