@@ -27,7 +27,7 @@ $teiFolder = $config->teiFolder;
 $teiFile = $config->teiFile;
 
 // Retrieve the URI and convert it into a endpoint.
-$uri = $_SERVER['REQUEST_URI'];
+$uri = htmlentities($_SERVER['REQUEST_URI']);
 $uri = trim($uri);
 $uri = rtrim($uri, '/');
 $uri = explode("/", $uri);
@@ -35,7 +35,8 @@ $children = array_slice($uri, array_search("v1", $uri) + 1);
 $parent = array_shift($children);
 
 // Convert the current file path into a well formed URL.
-$url = "http://" . $_SERVER['SERVER_NAME'] . $_SERVER['PHP_SELF'];
+$url = "http://" . htmlentities($_SERVER['SERVER_NAME']) . 
+	htmlentities($_SERVER['PHP_SELF']);
 $url = str_replace("/apitext_api/router.php", "", $url);
 
 // Route the request to the appropriate view.
