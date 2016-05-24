@@ -9,7 +9,7 @@
 3. You will need to upload apitext into that folder.
  * You can clone or download the apitext repository <a href="https://github.com/apitext/apitext_api">here</a>.
  * Note: If you choose to download the apitext repository from Github:
-  * You will need extract the base repository folder from the unzipped folder (when zipping files, Github creates a folder inside a folder).
+  1. You will need extract the base repository folder from the unzipped folder (when zipping files, Github creates a folder inside a folder).
   * You will need to remove the <code>-master</code> from the end of the base folder's name (when zipping files, Github adds "-master" to the end of the repository name).
  * You will then need to move the <code>.htaccess</code> file outside of the <code>apitext_api</code> folder.
  * You will then need to edit the <code>config.json</code> file located inside the <code>apitext_api</code> folder.
@@ -21,5 +21,5 @@
 	 "teiFolder": "my-tei-folder",
 	 "teiFile" : "my-tei-xml-file.xml"
 	}
-					</code></pre></</li>
+					</code></pre>
 4. That's it, the API should now be controlling your TEI-XML folder. Use a web browser to navigate to your file folder, you should see a welcome message.
