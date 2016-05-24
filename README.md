@@ -1,4 +1,6 @@
 # apitext_api
+http://apitext.github.io/
+
 ## what is apitext?</h3>
 Apitext is a student built prototype RESTful Application Programing Interface (API) for TEI-XML Transcriptions. Once uploaded to a TEI-XML folder on a website, it exposes a series of Uniform Resource Identifiers (URI). By using these identifier endpoints, a user can retrieve specific information from a TEI-XML file.
 
@@ -26,7 +28,7 @@ Currently, our prototype only manages one TEI-XML file and only supports URI req
 4. That's it, the API should now be controlling your TEI-XML folder. Use a web browser to navigate to your file folder, you should see a welcome message.
 
 ## how do I use apitext?
-Right now, apitext supports the following URI endpoints. To utilize an endpoint, just place it at the end of the URL path of your TEI folder <code>(example: http://your-site.com/your-tei/api/v1/resources)</code>.
+Right now, apitext supports the following URI endpoints. To utilize an endpoint, just place it at the end of the URL path of your TEI folder.
 <dl>
 <dt><code>api/v1/resources</code></dt>
 <dd>Returns a listing of all available endpoints for the API.</dd>
